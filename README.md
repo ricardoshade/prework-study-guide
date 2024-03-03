@@ -1,2 +1,2 @@
 # prework-study-guide
-Repository for prework study guide
+Repository for bootcamp prework study guide
